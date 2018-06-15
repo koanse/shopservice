@@ -1,0 +1,9 @@
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\obj\Debug\ShopClientTest.csprojResolveAssemblyReference.cache
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\ShopClientTest.dll
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\ShopClientTest.pdb
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\ShopClient.exe
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\ShopClient.pdb
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\obj\Debug\ShopClientTest.dll
+C:\Users\antko\Documents\Visual Studio 2015\Projects\ShopService\ShopClientTest\obj\Debug\ShopClientTest.pdb

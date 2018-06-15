@@ -1,0 +1,2 @@
+2018-06-15 21:57:36.5212|INFO|ShopService.Dao.BasketsDao|Test
+2018-06-15 21:57:36.5492|ERROR|ShopService.Dao.BasketsDao|Test

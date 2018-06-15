@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a6521399-a1e2-4250-a9c8-4f336eb1d600" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:19843/ShopService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ShopService.xsd" MetadataType="Schema" ID="e0b703f7-b5fe-462f-9e9a-eb36e94eea05" SourceId="1" SourceUrl="http://localhost:19843/ShopService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ShopService.disco" MetadataType="Disco" ID="f0869e44-7b10-4104-92a5-29a36e5c2308" SourceId="1" SourceUrl="http://localhost:19843/ShopService.svc?disco" />
+    <MetadataFile FileName="ShopService1.xsd" MetadataType="Schema" ID="2771a569-3fde-4c24-9b69-bc46b12ed518" SourceId="1" SourceUrl="http://localhost:19843/ShopService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ShopService.wsdl" MetadataType="Wsdl" ID="78b9062d-b82d-4fca-8ad6-94a1f0ee2f9e" SourceId="1" SourceUrl="http://localhost:19843/ShopService.svc?wsdl" />
+    <MetadataFile FileName="ShopService2.xsd" MetadataType="Schema" ID="b84c576f-b8ca-4a73-8a4e-9448633acd47" SourceId="1" SourceUrl="http://localhost:19843/ShopService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
